@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".deathrebirth">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/evadr"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Death and Rebirth es un resumen de 70 minutos de los primeros 24 episodios de la serie de televisión en formato de un cuarteto de cuerdas, cada uno centrado en los personajes Shinji, Asuka, Rei y Kaworu, mostrando su desarrollo durante la serie de televisión y culminando con la muerte del decimoséptimo Ángel."
+        />
+
+</LinearLayout>
